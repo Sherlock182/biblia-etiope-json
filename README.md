@@ -91,4 +91,4 @@ for libro in biblia['libros']:
 
 ---
 
-Desarrollado por **Ing. Oseas Nahun Montalvo Rogel** · [4603642023@mail.utec.edu.sv](mailto:4603642023@mail.utec.edu.sv) · [GitHub](https://github.com/Sherlock182)
+Desarrollado por **Ingeniero Oseas Nahun Montalvo Rogel** · [4603642023@mail.utec.edu.sv](mailto:4603642023@mail.utec.edu.sv) · [GitHub](https://github.com/Sherlock182)
